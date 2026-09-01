@@ -9,8 +9,8 @@ public abstract class GeometricFigure
 
 //Public Methods
     
-    public abstract decimal GetArea();
-    public abstract decimal GetPerimeter();
+    public abstract double GetArea();
+    public abstract double GetPerimeter();
     public override string ToString()
     {
         return Name;
