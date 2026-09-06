@@ -22,11 +22,12 @@
       <NewMemberFileName>Square.cs</NewMemberFileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Backend.Square">
+  <Class Name="Backend.Rhombus">
     <Position X="3.75" Y="3.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAACAQAAAAAAAAAAAAAAAAAEAAAAAMAAAAAA=</HashCode>
-      <FileName>Square.cs</FileName>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAQAAAAAAEIAAkAEAAAAAA=</HashCode>
+      <FileName>Rhombus.cs</FileName>
+      <NewMemberFileName>Square.cs</NewMemberFileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />
