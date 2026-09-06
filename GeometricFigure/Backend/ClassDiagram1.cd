@@ -14,6 +14,14 @@
       <FileName>Circle.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="Backend.Rectangle">
+    <Position X="1" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAIAAAAAAAAAEAAAAAEAEAAAA=</HashCode>
+      <FileName>Rectangle.cs</FileName>
+      <NewMemberFileName>Square.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
   <Class Name="Backend.Square">
     <Position X="3.75" Y="3.5" Width="1.5" />
     <TypeIdentifier>
