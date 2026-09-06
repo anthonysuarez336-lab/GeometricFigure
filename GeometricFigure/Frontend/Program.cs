@@ -18,3 +18,4 @@ foreach (var figure in figures)
 {
     Console.WriteLine(figure);
 }
+
