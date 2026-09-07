@@ -21,7 +21,7 @@ public class Parallelogram : Rectangle
 
 
     //Public Methods
-    public override double GetArea() => A * H;
+    public override double GetArea() => B * H;
     public override double GetPerimeter() => 2 * (A + B);
 
 
